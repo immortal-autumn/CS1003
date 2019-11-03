@@ -1,0 +1,33 @@
+[
+  {
+    "code": "CS1002",
+    "title": "Object-Oriented Programming",
+    "lecturers": [
+      "Dharini",
+      "Kasim"
+    ]
+  },
+  {
+    "code": "CS1003",
+    "title": "Programming With Data",
+    "lecturers": [
+      "Jon",
+      "Oz"
+    ]
+  },
+  {
+    "code": "CS1006",
+    "title": "Programming Projects",
+    "lecturers": [
+      "Tom",
+      "Marwan"
+    ]
+  },
+  {
+    "code": "MT1002",
+    "title": "Mathematics",
+    "lecturers": [
+      "Aidan"
+    ]
+  }
+]

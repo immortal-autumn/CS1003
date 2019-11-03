@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><result>
+<query id="54291">jack* cole*</query>
+<status code="200">OK</status>
+<time unit="msecs">0.19</time>
+<completions computed="2" sent="0" total="2">
+</completions>
+<hits computed="3" first="0" sent="3" total="3">
+<hit id="338475" score="2">
+<info><author>Jack Cole</author><url>http://dblp.org/pid/14/891</url></info>
+<url>URL#338475</url>
+</hit>
+<hit id="338711" score="2">
+<info><author>D. Jackson Coleman</author><url>http://dblp.org/pid/129/0680</url></info>
+<url>URL#338711</url>
+</hit>
+<hit id="778053" score="2">
+<info><author>G. Cole Jackson</author><url>http://dblp.org/pid/182/3136</url></info>
+<url>URL#778053</url>
+</hit>
+</hits>
+</result>

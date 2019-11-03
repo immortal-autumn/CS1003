@@ -1,0 +1,36 @@
+Invoice Number: 536365
+Stock code: 85123A
+Description: WHITE HANGING HEART T-LIGHT HOLDER
+Quantity: 6
+Unit Price: 2.55
+Invoice Number: 536365
+Stock code: 71053
+Description: WHITE METAL LANTERN
+Quantity: 6
+Unit Price: 3.39
+Number of items:12
+Total Price:35.64
+
+Invoice Number: 536366
+Stock code: 22633
+Description: HAND WARMER UNION JACK
+Quantity: 6
+Unit Price: 1.85
+Invoice Number: 536366
+Stock code: 22632
+Description: HAND WARMER RED POLKA DOT
+Quantity: 6
+Unit Price: 1.85
+Number of items:12
+Total Price:22.20
+
+Invoice Number: 536367
+Stock code: 84879
+Description: ASSORTED COLOUR BIRD ORNAMENT
+Quantity: 32
+Unit Price: 1.69
+Number of items:32
+Total Price:54.08
+
+Minimum priced Invoice Number: 536366 with 22.20
+Minimum priced Invoice Number: 536365 with 35.64
